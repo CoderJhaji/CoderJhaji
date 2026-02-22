@@ -1,14 +1,5 @@
 <h2 align="left">Hi 👋! My name is Shalini Jha and I'm a MERN Stack Developer, from India</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coderjhaji&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=coderjhaji&layout=compact&langs_count=6&theme=dracula" height="150" />
-</div>
-
-###
-
 <img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ###
