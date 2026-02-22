@@ -33,7 +33,7 @@
   <a href="https://instagram.com/shalinijha_1086" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://leetcode.com/u/wlecometoszone/" target="_blank">
+  <a href="https://leetcode.com" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" height="35"/>
   </a>
 </div>
